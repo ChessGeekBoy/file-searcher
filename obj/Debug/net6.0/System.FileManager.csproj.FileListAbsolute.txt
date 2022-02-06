@@ -1,0 +1,12 @@
+C:\Users\dhruv\source\repos\Misc\System.FileManager\bin\Debug\net6.0\System.FileManager.deps.json
+C:\Users\dhruv\source\repos\Misc\System.FileManager\bin\Debug\net6.0\System.FileManager.dll
+C:\Users\dhruv\source\repos\Misc\System.FileManager\bin\Debug\net6.0\ref\System.FileManager.dll
+C:\Users\dhruv\source\repos\Misc\System.FileManager\bin\Debug\net6.0\System.FileManager.pdb
+C:\Users\dhruv\source\repos\Misc\System.FileManager\obj\Debug\net6.0\System.FileManager.csproj.AssemblyReference.cache
+C:\Users\dhruv\source\repos\Misc\System.FileManager\obj\Debug\net6.0\System.FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruv\source\repos\Misc\System.FileManager\obj\Debug\net6.0\System.FileManager.AssemblyInfoInputs.cache
+C:\Users\dhruv\source\repos\Misc\System.FileManager\obj\Debug\net6.0\System.FileManager.AssemblyInfo.cs
+C:\Users\dhruv\source\repos\Misc\System.FileManager\obj\Debug\net6.0\System.FileManager.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\source\repos\Misc\System.FileManager\obj\Debug\net6.0\System.FileManager.dll
+C:\Users\dhruv\source\repos\Misc\System.FileManager\obj\Debug\net6.0\ref\System.FileManager.dll
+C:\Users\dhruv\source\repos\Misc\System.FileManager\obj\Debug\net6.0\System.FileManager.pdb
